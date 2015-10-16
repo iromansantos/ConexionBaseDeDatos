@@ -1,0 +1,9 @@
+c:\users\iromansantos\documents\visual studio 2013\Projects\ConexionBaseDeDatos\ConexionBaseDeDatos\bin\Debug\ConexionBaseDeDatos.exe.config
+c:\users\iromansantos\documents\visual studio 2013\Projects\ConexionBaseDeDatos\ConexionBaseDeDatos\bin\Debug\ConexionBaseDeDatos.exe
+c:\users\iromansantos\documents\visual studio 2013\Projects\ConexionBaseDeDatos\ConexionBaseDeDatos\bin\Debug\ConexionBaseDeDatos.pdb
+c:\users\iromansantos\documents\visual studio 2013\Projects\ConexionBaseDeDatos\ConexionBaseDeDatos\obj\Debug\ConexionBaseDeDatos.csprojResolveAssemblyReference.cache
+c:\users\iromansantos\documents\visual studio 2013\Projects\ConexionBaseDeDatos\ConexionBaseDeDatos\obj\Debug\ConexionBaseDeDatos.Form1.resources
+c:\users\iromansantos\documents\visual studio 2013\Projects\ConexionBaseDeDatos\ConexionBaseDeDatos\obj\Debug\ConexionBaseDeDatos.Properties.Resources.resources
+c:\users\iromansantos\documents\visual studio 2013\Projects\ConexionBaseDeDatos\ConexionBaseDeDatos\obj\Debug\ConexionBaseDeDatos.csproj.GenerateResource.Cache
+c:\users\iromansantos\documents\visual studio 2013\Projects\ConexionBaseDeDatos\ConexionBaseDeDatos\obj\Debug\ConexionBaseDeDatos.exe
+c:\users\iromansantos\documents\visual studio 2013\Projects\ConexionBaseDeDatos\ConexionBaseDeDatos\obj\Debug\ConexionBaseDeDatos.pdb
